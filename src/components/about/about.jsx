@@ -41,10 +41,10 @@ const about = () => {
 
           </div>
           <p>
-            I am NOUREDDINE ELFAQIR, a 2nd year
-            full-stack Developer. I am actively
-            developing my skills in full-stack
-            web development ( Im looking for internship opportunity )
+          "I'm NOUREDDINE ELFAQIR, a dedicated full-stack Developer experienced in React, Laravel, and MySQL...
+           Passionate about innovative solutions, 
+           I've built multiple responsive web applications and continuously hone my full-stack web development skills. 
+           Actively seeking an internship to contribute to dynamic development projects
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

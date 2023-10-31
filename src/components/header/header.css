@@ -22,6 +22,7 @@ header {
   /* =================== HEADER SOCIALS ======================= */
   
   .header__socials {
+    width: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -33,8 +34,8 @@ header {
   
   .header__socials::after {
     content: "";
-    width: 1px;
-    height: 2rem;
+    width: 2px;
+    height: 3rem;
     background-color: var(--color-primary);
   }
   
